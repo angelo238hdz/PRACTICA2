@@ -1,0 +1,12 @@
+      @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+     .encabezado-menu {background-color:#b2910f;}
+     .fondo2 {background-color:brown;}
+     .enlaces a {color:maroon;text-decoration:double;margin-left: 20px; }
+     .recomendaciones {justify-content:flex-start; }
+     .navegador {
+        font-family: "Anton", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      .subtitulos{color: brown;}
+     
